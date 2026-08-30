@@ -6,6 +6,7 @@ import requests
 
 SERVERS = [
     "NA-PVE-Extinction5859",
+    "EU-PVE-ASTRAEOS6054",
 ]
 
 SERVER_LIST_URL = (
